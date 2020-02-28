@@ -4,7 +4,7 @@ import './navigation.dart';
 void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
-  final String _appName = 'Star Wars';
+  final String _appName = 'Todoist';
 
   @override
   Widget build(BuildContext context) {
